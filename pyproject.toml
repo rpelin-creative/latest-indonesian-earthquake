@@ -1,6 +1,6 @@
 [project]
 name = "latestearthquake-indonesia-rpelin"
-version = "0.0.1"
+version = "0.0.2"
 authors = [
   { name="Ruri Pelinandang", email="ruri.pelinandang@gmail.com" },
 ]
